@@ -2,7 +2,7 @@
 
 ###
 
-My name is Gabriela Gavi, and I am from Espírito Santo, Brazil. From a very young age, I was introduced to technology and quickly fell in love with it. Much of this passion came from my family, who introduced me to the digital world, especially through video games. As I grew older, this interest only increased, and that is why I am currently pursuing a degree in Computer Science, discovering and learning more about this universe every day.
+My name is Gabriela Gavi, and I am from Espírito Santo, Brazil. From a very young age, I was introduced to technology and quickly developed a strong interest in it. Much of this enthusiasm came from my family, who introduced me to the digital world, especially through video games. As I grew older, this interest only grew stronger, which is why I am currently pursuing a degree in Computer Science, discovering and learning more about this universe every day.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
